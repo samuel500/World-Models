@@ -1,0 +1,1343 @@
+Generation0
+candidate[0] fitness:6.5626826477660245
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.5626826477660245, rnn_size=256, controller_size=256, output_size=3)
+T:59.762757301330566
+Generation1
+candidate[0] fitness:5.691886656971163
+Generation0
+candidate[0] fitness:6.786112705644495
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.786112705644495, rnn_size=256, controller_size=256, output_size=3)
+T:45.468196630477905
+Generation1
+candidate[0] fitness:5.57857544711656
+Model(gen=1, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=5.57857544711656, rnn_size=256, controller_size=256, output_size=3)
+T:57.749627351760864
+Generation2
+candidate[0] fitness:6.506460235049248
+Model(gen=1, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.506460235049248, rnn_size=256, controller_size=256, output_size=3)
+T:45.72564458847046
+Generation3
+candidate[0] fitness:6.350123646604544
+Model(gen=2, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.350123646604544, rnn_size=256, controller_size=256, output_size=3)
+T:51.24524259567261
+Generation4
+Model(gen=4, eps=0.011, both_p=0.9500000000000001, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=7.612679474080232, rnn_size=256, controller_size=256, output_size=3)
+T:52.09475231170654
+Generation5
+candidate[0] fitness:7.206549394589232
+Model(gen=3, eps=0.011, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=7.206549394589232, rnn_size=256, controller_size=256, output_size=3)
+T:49.51367378234863
+Generation6
+candidate[0] fitness:6.818029060342015
+Model(gen=4, eps=0.012, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.818029060342015, rnn_size=256, controller_size=256, output_size=3)
+T:49.7055242061615
+Generation7
+Model(gen=6, eps=0.009999999999999998, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=10.76055300471359, rnn_size=256, controller_size=256, output_size=3)
+T:57.913376808166504
+Generation8
+Model(gen=6, eps=0.011, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=10, acc=15.23207917323888, rnn_size=256, controller_size=256, output_size=3)
+T:60.05744433403015
+Generation9
+Model(gen=8, eps=0.009999999999999998, both_p=0.9, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=10, acc=25.65057673714337, rnn_size=256, controller_size=256, output_size=3)
+T:75.59635329246521
+Generation10
+Generation0
+Generation0
+Generation0
+Generation0
+Generation0
+candidate[0] fitness:8.657707509881433
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=5.208376048314371, rnn_size=256, controller_size=256, output_size=3)
+T:96.70659184455872
+Generation1
+Model(gen=1, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.048810812327337, rnn_size=256, controller_size=256, output_size=3)
+T:54.08176374435425
+Generation2
+Model(gen=2, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=5.6868576968243785, rnn_size=256, controller_size=256, output_size=3)
+T:64.33955454826355
+Generation3
+Model(gen=2, eps=0.01, both_p=0.9, controller_p=0.55, encoder_p=0.95, no_rew=10, acc=6.106370217416123, rnn_size=256, controller_size=256, output_size=3)
+T:79.24861764907837
+Generation4
+Model(gen=3, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=5.356455120118136, rnn_size=256, controller_size=256, output_size=3)
+T:55.56813335418701
+Generation5
+candidate[0] fitness:8.418750000000012
+Model(gen=5, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.073825248654536, rnn_size=256, controller_size=256, output_size=3)
+T:52.800453901290894
+Generation6
+Model(gen=5, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=10, acc=6.313360302768814, rnn_size=256, controller_size=256, output_size=3)
+T:53.211782932281494
+Generation7
+Model(gen=7, eps=0.01, both_p=0.9500000000000001, controller_p=0.4, encoder_p=0.8499999999999999, no_rew=10, acc=6.450364096592369, rnn_size=256, controller_size=256, output_size=3)
+T:52.63466024398804
+Generation8
+Model(gen=5, eps=0.01, both_p=0.85, controller_p=0.55, encoder_p=0.95, no_rew=10, acc=6.234455311149604, rnn_size=256, controller_size=256, output_size=3)
+T:53.07354187965393
+Generation9
+Model(gen=8, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=10, acc=6.860462097241024, rnn_size=256, controller_size=256, output_size=3)
+T:52.79800796508789
+Generation10
+Model(gen=7, eps=0.01, both_p=0.7999999999999999, controller_p=0.55, encoder_p=0.95, no_rew=10, acc=6.495710270022873, rnn_size=256, controller_size=256, output_size=3)
+T:64.20806431770325
+Generation11
+Model(gen=9, eps=0.01, both_p=0.9500000000000001, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=6.5312692245779225, rnn_size=256, controller_size=256, output_size=3)
+T:54.022828340530396
+Generation12
+Model(gen=11, eps=0.01, both_p=0.9, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=7.359508971953355, rnn_size=256, controller_size=256, output_size=3)
+T:61.39650249481201
+Generation13
+Model(gen=11, eps=0.01, both_p=0.9500000000000001, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=10, acc=7.120142997148828, rnn_size=256, controller_size=256, output_size=3)
+T:55.651230573654175
+Generation14
+Model(gen=11, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.95, no_rew=10, acc=6.77822051381367, rnn_size=256, controller_size=256, output_size=3)
+T:54.72692275047302
+Generation15
+Model(gen=13, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.7999999999999998, no_rew=10, acc=7.250622341321896, rnn_size=256, controller_size=256, output_size=3)
+T:83.62571907043457
+Generation16
+Model(gen=14, eps=0.01, both_p=1.0, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=10, acc=7.3409204243312205, rnn_size=256, controller_size=256, output_size=3)
+T:64.15891480445862
+Generation17
+Model(gen=15, eps=0.01, both_p=0.95, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=10, acc=7.678839936780309, rnn_size=256, controller_size=256, output_size=3)
+T:60.15783357620239
+Generation18
+Model(gen=14, eps=0.01, both_p=1.0, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=10, acc=7.980664363826538, rnn_size=256, controller_size=256, output_size=3)
+T:53.92613220214844
+Generation19
+Model(gen=18, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=8.140497527363397, rnn_size=256, controller_size=256, output_size=3)
+T:54.049641609191895
+Generation20
+Model(gen=19, eps=0.01, both_p=0.7999999999999999, controller_p=0.45, encoder_p=0.95, no_rew=10, acc=8.104488554819305, rnn_size=256, controller_size=256, output_size=3)
+T:48.422526597976685
+Generation21
+Model(gen=20, eps=0.01, both_p=0.7499999999999999, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=10, acc=10.879384498565152, rnn_size=256, controller_size=256, output_size=3)
+T:50.02876043319702
+Generation22
+Model(gen=20, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=10, acc=10.116576934400339, rnn_size=256, controller_size=256, output_size=3)
+T:50.93481755256653
+Generation23
+Model(gen=21, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=14.400815326000545, rnn_size=256, controller_size=256, output_size=3)
+T:54.92289137840271
+Generation24
+Model(gen=22, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=15.605730674779101, rnn_size=256, controller_size=256, output_size=3)
+T:59.812915325164795
+Generation25
+Model(gen=23, eps=0.01, both_p=0.7499999999999999, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=10, acc=19.01078084105382, rnn_size=256, controller_size=256, output_size=3)
+T:64.60158109664917
+Generation26
+Model(gen=24, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=26.506597006276497, rnn_size=256, controller_size=256, output_size=3)
+T:72.3039116859436
+Generation27
+Model(gen=23, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=23.797667400830715, rnn_size=256, controller_size=256, output_size=3)
+T:80.28738760948181
+Generation28
+Model(gen=26, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.7499999999999998, no_rew=10, acc=27.3412138751663, rnn_size=256, controller_size=256, output_size=3)
+T:84.39580941200256
+Generation29
+Model(gen=26, eps=0.01, both_p=0.85, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=22.66486474432242, rnn_size=256, controller_size=256, output_size=3)
+T:84.90383625030518
+Generation30
+Model(gen=28, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=34.78618236159502, rnn_size=256, controller_size=256, output_size=3)
+T:87.50314092636108
+Generation31
+Model(gen=29, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=38.43111368337686, rnn_size=256, controller_size=256, output_size=3)
+T:89.62018918991089
+Generation32
+Model(gen=28, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=34.01469688913267, rnn_size=256, controller_size=256, output_size=3)
+T:90.22784614562988
+Generation33
+Model(gen=31, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=33.585433160606144, rnn_size=256, controller_size=256, output_size=3)
+T:95.25392627716064
+Generation34
+Model(gen=32, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=28.2967888675684, rnn_size=256, controller_size=256, output_size=3)
+T:88.61206030845642
+Generation35
+Model(gen=32, eps=0.01, both_p=0.85, controller_p=0.4, encoder_p=0.8499999999999999, no_rew=10, acc=29.672755635323714, rnn_size=256, controller_size=256, output_size=3)
+T:90.44688987731934
+Generation36
+Model(gen=32, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=33.15156357307127, rnn_size=256, controller_size=256, output_size=3)
+T:92.2856776714325
+Generation37
+Model(gen=33, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=10, acc=27.883931283303895, rnn_size=256, controller_size=256, output_size=3)
+T:87.53495073318481
+Generation38
+Model(gen=33, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=28.10445535036552, rnn_size=256, controller_size=256, output_size=3)
+T:88.33285355567932
+Generation39
+candidate[0] fitness:78.85402298850578
+Model(gen=33, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=26.651795183014222, rnn_size=256, controller_size=256, output_size=3)
+T:83.48910665512085
+Generation40
+Model(gen=36, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=39.770945437547006, rnn_size=256, controller_size=256, output_size=3)
+T:97.52265620231628
+Generation41
+Model(gen=37, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=10, acc=36.89111962075223, rnn_size=256, controller_size=256, output_size=3)
+T:93.44836115837097
+Generation42
+Model(gen=38, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=30.493891659469245, rnn_size=256, controller_size=256, output_size=3)
+T:90.4796392917633
+Generation43
+Model(gen=38, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=10, acc=31.955621825775932, rnn_size=256, controller_size=256, output_size=3)
+T:92.1531765460968
+Generation44
+candidate[0] fitness:83.5199312714778
+Model(gen=38, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=10, acc=30.120341658496606, rnn_size=256, controller_size=256, output_size=3)
+T:86.00252914428711
+Generation45
+Model(gen=40, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=29.189252638015176, rnn_size=256, controller_size=256, output_size=3)
+T:89.93504810333252
+Generation46
+Model(gen=41, eps=0.01, both_p=0.6999999999999998, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=10, acc=33.550823281929134, rnn_size=256, controller_size=256, output_size=3)
+T:91.3123984336853
+Generation47
+Model(gen=42, eps=0.01, both_p=0.6499999999999998, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=32.91443248107058, rnn_size=256, controller_size=256, output_size=3)
+T:95.07630395889282
+Generation48
+Model(gen=41, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=10, acc=27.281365200513825, rnn_size=256, controller_size=256, output_size=3)
+T:89.82629084587097
+Generation49
+Model(gen=43, eps=0.01, both_p=0.7999999999999999, controller_p=0.30000000000000004, encoder_p=0.7499999999999998, no_rew=10, acc=29.443499223443496, rnn_size=256, controller_size=256, output_size=3)
+T:89.07988834381104
+Generation50
+Model(gen=45, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=10, acc=30.459573465501034, rnn_size=256, controller_size=256, output_size=3)
+T:91.19377207756042
+Generation51
+Model(gen=45, eps=0.01, both_p=0.7999999999999999, controller_p=0.30000000000000004, encoder_p=0.7499999999999998, no_rew=10, acc=35.95639257858586, rnn_size=256, controller_size=256, output_size=3)
+T:94.10964155197144
+Generation52
+candidate[0] fitness:89.44265232974927
+Model(gen=45, eps=0.01, both_p=0.7999999999999999, controller_p=0.30000000000000004, encoder_p=0.7499999999999998, no_rew=10, acc=36.098771746218084, rnn_size=256, controller_size=256, output_size=3)
+T:93.67531156539917
+Generation53
+candidate[0] fitness:71.6658536585366
+Model(gen=45, eps=0.01, both_p=0.7999999999999999, controller_p=0.30000000000000004, encoder_p=0.7499999999999998, no_rew=10, acc=35.94988530748654, rnn_size=256, controller_size=256, output_size=3)
+T:98.45278668403625
+Generation54
+Model(gen=49, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=28.971209140723442, rnn_size=256, controller_size=256, output_size=3)
+T:95.78228449821472
+Generation55
+Model(gen=49, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=35.11647108842043, rnn_size=256, controller_size=256, output_size=3)
+T:101.39942049980164
+Generation56
+Model(gen=48, eps=0.01, both_p=0.9, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=10, acc=29.84735821258355, rnn_size=256, controller_size=256, output_size=3)
+T:95.84265184402466
+Generation57
+Model(gen=49, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=10, acc=36.34927323432218, rnn_size=256, controller_size=256, output_size=3)
+T:93.85893940925598
+Generation58
+Model(gen=50, eps=0.01, both_p=0.7999999999999999, controller_p=0.20000000000000007, encoder_p=0.8999999999999999, no_rew=10, acc=38.01398657389435, rnn_size=256, controller_size=256, output_size=3)
+T:94.76043605804443
+Generation59
+Model(gen=51, eps=0.01, both_p=0.7999999999999999, controller_p=0.20000000000000007, encoder_p=0.95, no_rew=10, acc=34.20307623749497, rnn_size=256, controller_size=256, output_size=3)
+T:90.2605652809143
+Generation60
+Model(gen=52, eps=0.01, both_p=0.85, controller_p=0.20000000000000007, encoder_p=0.8499999999999999, no_rew=10, acc=31.80469308374625, rnn_size=256, controller_size=256, output_size=3)
+T:94.81147360801697
+Generation61
+Model(gen=51, eps=0.01, both_p=0.7499999999999999, controller_p=0.20000000000000007, encoder_p=0.8499999999999999, no_rew=10, acc=41.12698604462278, rnn_size=256, controller_size=256, output_size=3)
+T:97.67198443412781
+Generation62
+Model(gen=54, eps=0.01, both_p=0.85, controller_p=0.20000000000000007, encoder_p=0.6999999999999997, no_rew=10, acc=34.65385517315179, rnn_size=256, controller_size=256, output_size=3)
+T:93.4158718585968
+Generation63
+Model(gen=52, eps=0.01, both_p=0.85, controller_p=0.20000000000000007, encoder_p=0.95, no_rew=10, acc=29.375227677803498, rnn_size=256, controller_size=256, output_size=3)
+T:90.68666172027588
+Generation64
+Model(gen=56, eps=0.01, both_p=0.7999999999999999, controller_p=0.15000000000000008, encoder_p=0.7499999999999998, no_rew=10, acc=32.312245796862506, rnn_size=256, controller_size=256, output_size=3)
+T:99.329904794693
+Generation65
+Model(gen=54, eps=0.01, both_p=0.85, controller_p=0.20000000000000007, encoder_p=0.8499999999999999, no_rew=10, acc=38.461108729598806, rnn_size=256, controller_size=256, output_size=3)
+T:133.2285852432251
+Generation66
+Generation0
+candidate[0] fitness:7.578195488721818
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=4.949789769260096, rnn_size=128, controller_size=256, output_size=3)
+T:113.41176509857178
+Generation1
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=4.986190972548321, rnn_size=128, controller_size=256, output_size=3)
+T:110.27813029289246
+Generation2
+Model(gen=2, eps=0.01, both_p=0.9, controller_p=0.55, encoder_p=0.95, no_rew=20, acc=5.410393480168384, rnn_size=128, controller_size=256, output_size=3)
+T:106.17990827560425
+Generation3
+Model(gen=2, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=6.079570210815214, rnn_size=128, controller_size=256, output_size=3)
+T:105.04019784927368
+Generation4
+Model(gen=3, eps=0.01, both_p=0.85, controller_p=0.55, encoder_p=0.95, no_rew=20, acc=6.331793283660928, rnn_size=128, controller_size=256, output_size=3)
+T:106.73102641105652
+Generation5
+Model(gen=4, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=6.8730135161123656, rnn_size=128, controller_size=256, output_size=3)
+T:56.897037744522095
+Generation6
+Model(gen=5, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=6.613559912422221, rnn_size=128, controller_size=256, output_size=3)
+T:55.9305784702301
+Generation7
+Model(gen=5, eps=0.01, both_p=0.9500000000000001, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=20, acc=6.984068012018966, rnn_size=128, controller_size=256, output_size=3)
+T:56.17959904670715
+Generation8
+Model(gen=4, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.95, no_rew=20, acc=6.784041597980782, rnn_size=128, controller_size=256, output_size=3)
+T:69.68741083145142
+Generation9
+Model(gen=5, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=20, acc=7.236805491072726, rnn_size=128, controller_size=256, output_size=3)
+T:108.32670664787292
+Generation10
+Model(gen=5, eps=0.01, both_p=1.0, controller_p=0.45, encoder_p=0.95, no_rew=20, acc=7.464657821015741, rnn_size=128, controller_size=256, output_size=3)
+T:90.01346945762634
+Generation11
+Model(gen=9, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=20, acc=12.172694382985455, rnn_size=128, controller_size=256, output_size=3)
+T:108.24193024635315
+Generation12
+Model(gen=10, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=20, acc=14.821576761224582, rnn_size=128, controller_size=256, output_size=3)
+T:181.30216121673584
+Generation13
+candidate[0] fitness:62.84999999999971
+Model(gen=10, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=20, acc=15.952226367607256, rnn_size=128, controller_size=256, output_size=3)
+T:151.2918176651001
+Generation14
+Model(gen=11, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=17.470170302058712, rnn_size=128, controller_size=256, output_size=3)
+T:159.26215147972107
+Generation15
+Model(gen=13, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.95, no_rew=20, acc=37.86525648888026, rnn_size=128, controller_size=256, output_size=3)
+T:189.95470142364502
+Generation16
+Model(gen=14, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=23.17813300323384, rnn_size=128, controller_size=256, output_size=3)
+T:121.51647210121155
+Generation17
+Model(gen=15, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=24.840974689575027, rnn_size=128, controller_size=256, output_size=3)
+T:140.46514201164246
+Generation18
+candidate[0] fitness:45.13706293706281
+Model(gen=15, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=25.1577806838105, rnn_size=128, controller_size=256, output_size=3)
+T:140.137051820755
+Generation19
+Model(gen=15, eps=0.01, both_p=1.0, controller_p=0.45, encoder_p=0.7999999999999998, no_rew=18, acc=30.672948694811726, rnn_size=128, controller_size=256, output_size=3)
+T:191.77351140975952
+Generation20
+Generation0
+candidate[0] fitness:7.594029850746281
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=5.53215548000972, rnn_size=128, controller_size=256, output_size=3)
+T:66.88645911216736
+Generation1
+Model(gen=1, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=4.962758714754241, rnn_size=128, controller_size=256, output_size=3)
+T:50.67492938041687
+Generation2
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=6.098138933784647, rnn_size=128, controller_size=256, output_size=3)
+T:54.46157908439636
+Generation3
+Model(gen=2, eps=0.01, both_p=0.9500000000000001, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=6.395078656621646, rnn_size=128, controller_size=256, output_size=3)
+T:53.540343284606934
+Generation4
+Model(gen=3, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=6.053019334355117, rnn_size=128, controller_size=256, output_size=3)
+T:45.35430145263672
+Generation5
+Model(gen=4, eps=0.01, both_p=0.85, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=6.388148962477333, rnn_size=128, controller_size=256, output_size=3)
+T:102.72504186630249
+Generation6
+Model(gen=4, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=6.657166844854255, rnn_size=128, controller_size=256, output_size=3)
+T:57.56389832496643
+Generation7
+Model(gen=4, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=7.333611980037952, rnn_size=128, controller_size=256, output_size=3)
+T:48.565829277038574
+Generation8
+Model(gen=4, eps=0.01, both_p=0.9500000000000001, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=6.879470394951894, rnn_size=128, controller_size=256, output_size=3)
+T:46.721487522125244
+Generation9
+Model(gen=7, eps=0.01, both_p=0.85, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=6.222770076444381, rnn_size=128, controller_size=256, output_size=3)
+T:41.439645528793335
+Generation10
+Model(gen=8, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=7.679840388635398, rnn_size=128, controller_size=256, output_size=3)
+T:43.413896560668945
+Generation11
+Model(gen=9, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=14.079307408204603, rnn_size=128, controller_size=256, output_size=3)
+T:46.5124773979187
+Generation12
+Model(gen=10, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=9.73086942163169, rnn_size=128, controller_size=256, output_size=3)
+T:46.069998025894165
+Generation13
+Model(gen=10, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=9.55176224189079, rnn_size=128, controller_size=256, output_size=3)
+T:49.382469177246094
+Generation14
+Model(gen=12, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.7999999999999998, no_rew=18, acc=16.137656575134017, rnn_size=128, controller_size=256, output_size=3)
+T:54.10928153991699
+Generation15
+Model(gen=12, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=13.571157898164033, rnn_size=128, controller_size=256, output_size=3)
+T:63.669907093048096
+Generation16
+Model(gen=11, eps=0.01, both_p=0.85, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=17.952315544193958, rnn_size=128, controller_size=256, output_size=3)
+T:63.77294921875
+Generation17
+Model(gen=13, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=17.69255866453931, rnn_size=128, controller_size=256, output_size=3)
+T:77.58269762992859
+Generation18
+Model(gen=14, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=22.829724334211406, rnn_size=128, controller_size=256, output_size=3)
+T:91.908851146698
+Generation19
+Model(gen=13, eps=0.01, both_p=0.85, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=21.800897488886946, rnn_size=128, controller_size=256, output_size=3)
+T:89.43635058403015
+Generation20
+Model(gen=16, eps=0.01, both_p=0.9500000000000001, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=30.941941422364543, rnn_size=128, controller_size=256, output_size=3)
+T:73.47945022583008
+Generation21
+candidate[0] fitness:43.30066889632093
+Model(gen=16, eps=0.01, both_p=0.9500000000000001, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=27.91461712082657, rnn_size=128, controller_size=256, output_size=3)
+T:102.28906106948853
+Generation22
+Model(gen=16, eps=0.01, both_p=1.0, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=28.086094359159414, rnn_size=128, controller_size=256, output_size=3)
+T:109.46427702903748
+Generation23
+Model(gen=17, eps=0.01, both_p=0.9500000000000001, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=24.010984150554375, rnn_size=128, controller_size=256, output_size=3)
+T:117.83308005332947
+Generation24
+Model(gen=18, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=32.97355255130428, rnn_size=128, controller_size=256, output_size=3)
+T:222.02343583106995
+Generation25
+candidate[0] fitness:51.852147239263694
+Model(gen=18, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=31.745565538410126, rnn_size=128, controller_size=256, output_size=3)
+T:95.26993799209595
+Generation26
+candidate[0] fitness:50.94006734006722
+Model(gen=19, eps=0.01, both_p=0.95, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=36.63595133492648, rnn_size=128, controller_size=256, output_size=3)
+T:94.67139410972595
+Generation27
+Model(gen=20, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=26.241499136160495, rnn_size=128, controller_size=256, output_size=3)
+T:256.5049252510071
+Generation28
+Model(gen=21, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=26.947815000807683, rnn_size=128, controller_size=256, output_size=3)
+T:288.47831773757935
+Generation29
+Model(gen=21, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=26.0723672589028, rnn_size=128, controller_size=256, output_size=3)
+T:107.06213331222534
+Generation30
+candidate[0] fitness:100.61347517730545
+Model(gen=21, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=32.362294616315836, rnn_size=128, controller_size=256, output_size=3)
+T:183.3200981616974
+Generation31
+Model(gen=22, eps=0.01, both_p=0.8999999999999999, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=34.26961178900283, rnn_size=128, controller_size=256, output_size=3)
+T:161.23215699195862
+Generation32
+candidate[0] fitness:62.588888888888796
+Model(gen=24, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=49.33431425537871, rnn_size=128, controller_size=256, output_size=3)
+T:155.80784630775452
+Generation33
+Model(gen=21, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=31.78917660974828, rnn_size=128, controller_size=256, output_size=3)
+T:126.57548761367798
+Generation34
+Model(gen=25, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=35.74276887707149, rnn_size=128, controller_size=256, output_size=3)
+T:106.57930612564087
+Generation35
+Model(gen=24, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=45.507265736319304, rnn_size=128, controller_size=256, output_size=3)
+T:114.4906485080719
+Generation36
+Model(gen=27, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=38.19828906766393, rnn_size=128, controller_size=256, output_size=3)
+T:99.05445384979248
+Generation37
+Model(gen=27, eps=0.01, both_p=0.8499999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=29.14333449212891, rnn_size=128, controller_size=256, output_size=3)
+T:86.99551296234131
+Generation38
+Model(gen=27, eps=0.01, both_p=0.7499999999999999, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=42.49797897933438, rnn_size=128, controller_size=256, output_size=3)
+T:103.68921685218811
+Generation39
+candidate[0] fitness:66.70565371024733
+Model(gen=24, eps=0.01, both_p=1.0, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=41.17948377535265, rnn_size=128, controller_size=256, output_size=3)
+T:280.47329211235046
+Generation40
+Model(gen=29, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.8499999999999999, no_rew=18, acc=34.40826633439527, rnn_size=128, controller_size=256, output_size=3)
+T:97.48194789886475
+Generation41
+Model(gen=28, eps=0.01, both_p=0.8999999999999999, controller_p=0.30000000000000004, encoder_p=0.8999999999999999, no_rew=18, acc=42.437471134736455, rnn_size=128, controller_size=256, output_size=3)
+T:272.12696146965027
+Generation42
+Model(gen=29, eps=0.01, both_p=0.7499999999999999, controller_p=0.55, encoder_p=0.7999999999999998, no_rew=18, acc=43.770451724666565, rnn_size=128, controller_size=256, output_size=3)
+T:177.53972935676575
+Generation43
+Model(gen=30, eps=0.01, both_p=0.7499999999999999, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=44.4368488978927, rnn_size=128, controller_size=256, output_size=3)
+T:91.64871835708618
+Generation44
+Model(gen=30, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.8499999999999999, no_rew=18, acc=44.75852518458626, rnn_size=128, controller_size=256, output_size=3)
+T:105.83715581893921
+Generation45
+Model(gen=28, eps=0.01, both_p=0.95, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=36.7111214446005, rnn_size=128, controller_size=256, output_size=3)
+T:104.03595447540283
+Generation46
+Model(gen=31, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=40.864872154627726, rnn_size=128, controller_size=256, output_size=3)
+T:324.9371304512024
+Generation47
+Model(gen=32, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=36.91105025402006, rnn_size=128, controller_size=256, output_size=3)
+T:266.69302225112915
+Generation48
+Model(gen=31, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.7999999999999998, no_rew=18, acc=38.705005092361176, rnn_size=128, controller_size=256, output_size=3)
+T:319.24410796165466
+Generation49
+Model(gen=33, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=49.60166834409923, rnn_size=128, controller_size=256, output_size=3)
+T:171.7052023410797
+Generation50
+Model(gen=31, eps=0.01, both_p=0.95, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=45.348240680646356, rnn_size=128, controller_size=256, output_size=3)
+T:126.75703883171082
+Generation51
+Model(gen=31, eps=0.01, both_p=0.95, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=45.995382675770536, rnn_size=128, controller_size=256, output_size=3)
+T:129.33253121376038
+Generation52
+Model(gen=33, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.7499999999999998, no_rew=18, acc=38.002600977777234, rnn_size=128, controller_size=256, output_size=3)
+T:110.6295554637909
+Generation53
+Model(gen=34, eps=0.01, both_p=0.8499999999999999, controller_p=0.30000000000000004, encoder_p=0.7999999999999998, no_rew=18, acc=64.17822064522275, rnn_size=128, controller_size=256, output_size=3)
+T:123.5913314819336
+Generation54
+Model(gen=34, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=49.61986413330729, rnn_size=128, controller_size=256, output_size=3)
+T:123.68657064437866
+Generation55
+Model(gen=35, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=38.143519309839725, rnn_size=128, controller_size=256, output_size=3)
+T:113.8685417175293
+Generation56
+Model(gen=34, eps=0.01, both_p=0.95, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=37.36155720719601, rnn_size=128, controller_size=256, output_size=3)
+T:115.903968334198
+Generation57
+Model(gen=34, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=42.791714826744844, rnn_size=128, controller_size=256, output_size=3)
+T:108.6651599407196
+Generation58
+Model(gen=37, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=39.161438297567315, rnn_size=128, controller_size=256, output_size=3)
+T:102.3025553226471
+Generation59
+Model(gen=38, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=37.688652199923816, rnn_size=128, controller_size=256, output_size=3)
+T:121.16488313674927
+Generation60
+Model(gen=40, eps=0.01, both_p=0.4999999999999997, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=37.474829166539735, rnn_size=128, controller_size=256, output_size=3)
+T:111.39508605003357
+Generation61
+Model(gen=39, eps=0.01, both_p=0.8999999999999999, controller_p=0.30000000000000004, encoder_p=0.95, no_rew=18, acc=41.53580692664609, rnn_size=128, controller_size=256, output_size=3)
+T:118.89927291870117
+Generation62
+Model(gen=40, eps=0.01, both_p=0.6999999999999998, controller_p=0.6000000000000001, encoder_p=0.8999999999999999, no_rew=18, acc=43.88937403419874, rnn_size=128, controller_size=256, output_size=3)
+T:113.81370139122009
+Generation63
+Model(gen=39, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=38.60117956990572, rnn_size=128, controller_size=256, output_size=3)
+T:118.73594355583191
+Generation64
+Model(gen=40, eps=0.01, both_p=0.95, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=40.240445439979126, rnn_size=128, controller_size=256, output_size=3)
+T:118.33345985412598
+Generation65
+Model(gen=40, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.7499999999999998, no_rew=18, acc=38.3810617768811, rnn_size=128, controller_size=256, output_size=3)
+T:94.05596280097961
+Generation66
+Model(gen=41, eps=0.01, both_p=0.8999999999999999, controller_p=0.35000000000000003, encoder_p=0.5999999999999996, no_rew=18, acc=38.366363681658406, rnn_size=128, controller_size=256, output_size=3)
+T:76.92527914047241
+Generation67
+Model(gen=41, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.6999999999999997, no_rew=18, acc=48.43802747809975, rnn_size=128, controller_size=256, output_size=3)
+T:79.0029547214508
+Generation68
+Model(gen=43, eps=0.01, both_p=0.5999999999999998, controller_p=0.6000000000000001, encoder_p=0.95, no_rew=18, acc=42.29012694885216, rnn_size=128, controller_size=256, output_size=3)
+T:72.02757143974304
+Generation69
+Model(gen=42, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.7499999999999998, no_rew=18, acc=42.406606364613054, rnn_size=128, controller_size=256, output_size=3)
+T:83.03937864303589
+Generation70
+Model(gen=43, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.5999999999999996, no_rew=18, acc=52.07006996776338, rnn_size=128, controller_size=256, output_size=3)
+T:83.16617035865784
+Generation71
+Model(gen=44, eps=0.01, both_p=0.6999999999999998, controller_p=0.6500000000000001, encoder_p=0.8499999999999999, no_rew=18, acc=48.686044238787204, rnn_size=128, controller_size=256, output_size=3)
+T:81.95592951774597
+Generation72
+Model(gen=44, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.95, no_rew=18, acc=36.87098332749307, rnn_size=128, controller_size=256, output_size=3)
+T:77.87887716293335
+Generation73
+Model(gen=46, eps=0.01, both_p=0.5999999999999998, controller_p=0.6500000000000001, encoder_p=0.95, no_rew=18, acc=43.522731397560726, rnn_size=128, controller_size=256, output_size=3)
+T:75.86804580688477
+Generation74
+Model(gen=49, eps=0.01, both_p=0.5999999999999998, controller_p=0.6500000000000001, encoder_p=0.7499999999999998, no_rew=18, acc=40.535346043515595, rnn_size=128, controller_size=256, output_size=3)
+T:78.87766456604004
+Generation75
+candidate[0] fitness:78.07292418772583
+Model(gen=45, eps=0.01, both_p=0.5999999999999998, controller_p=0.6000000000000001, encoder_p=0.7999999999999998, no_rew=18, acc=43.31469777329934, rnn_size=128, controller_size=256, output_size=3)
+T:76.74975633621216
+Generation76
+Model(gen=46, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.6499999999999997, no_rew=18, acc=44.831977137910194, rnn_size=128, controller_size=256, output_size=3)
+T:77.27868318557739
+Generation77
+Model(gen=49, eps=0.01, both_p=0.5999999999999998, controller_p=0.6500000000000001, encoder_p=0.7499999999999998, no_rew=18, acc=42.82065486713098, rnn_size=128, controller_size=256, output_size=3)
+T:79.01927185058594
+Generation78
+Model(gen=46, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.8499999999999999, no_rew=18, acc=60.75864335420866, rnn_size=128, controller_size=256, output_size=3)
+T:81.33897662162781
+Generation79
+Model(gen=47, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=57.52286530205538, rnn_size=128, controller_size=256, output_size=3)
+T:78.40053200721741
+Generation80
+Model(gen=48, eps=0.01, both_p=0.6499999999999998, controller_p=0.7000000000000002, encoder_p=0.7999999999999998, no_rew=18, acc=46.04857395807014, rnn_size=128, controller_size=256, output_size=3)
+T:82.81797051429749
+Generation81
+Model(gen=51, eps=0.01, both_p=0.5999999999999998, controller_p=0.6500000000000001, encoder_p=0.8999999999999999, no_rew=18, acc=41.796297631975165, rnn_size=128, controller_size=256, output_size=3)
+T:74.49560523033142
+Generation82
+Model(gen=52, eps=0.01, both_p=0.6499999999999998, controller_p=0.7000000000000002, encoder_p=0.6999999999999997, no_rew=18, acc=42.40166499847609, rnn_size=128, controller_size=256, output_size=3)
+T:77.3216803073883
+Generation83
+Model(gen=48, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.7999999999999998, no_rew=18, acc=38.21824675863057, rnn_size=128, controller_size=256, output_size=3)
+T:69.23937773704529
+Generation84
+Model(gen=49, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.7999999999999998, no_rew=18, acc=31.621204869182097, rnn_size=128, controller_size=256, output_size=3)
+T:74.58472013473511
+Generation85
+Model(gen=50, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.7999999999999998, no_rew=18, acc=48.18852544501321, rnn_size=128, controller_size=256, output_size=3)
+T:77.5769727230072
+Generation86
+Model(gen=49, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.6499999999999997, no_rew=18, acc=47.172171131230876, rnn_size=128, controller_size=256, output_size=3)
+T:78.87226843833923
+Generation87
+Model(gen=49, eps=0.01, both_p=0.6999999999999998, controller_p=0.55, encoder_p=0.7999999999999998, no_rew=18, acc=33.703991304029266, rnn_size=128, controller_size=256, output_size=3)
+T:74.53214859962463
+Generation88
+Model(gen=55, eps=0.01, both_p=0.5999999999999998, controller_p=0.6000000000000001, encoder_p=0.8499999999999999, no_rew=18, acc=42.2798139035419, rnn_size=128, controller_size=256, output_size=3)
+T:77.26504039764404
+Generation89
+Model(gen=48, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.95, no_rew=18, acc=54.31806667013538, rnn_size=128, controller_size=256, output_size=3)
+T:79.17903399467468
+Generation90
+Model(gen=50, eps=0.01, both_p=0.5999999999999998, controller_p=0.6500000000000001, encoder_p=0.95, no_rew=18, acc=39.14172447673052, rnn_size=128, controller_size=256, output_size=3)
+T:71.4345703125
+Generation91
+Model(gen=50, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.8499999999999999, no_rew=18, acc=55.56112778309941, rnn_size=128, controller_size=256, output_size=3)
+T:77.8120903968811
+Generation92
+Model(gen=51, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.95, no_rew=18, acc=44.265739409817286, rnn_size=128, controller_size=256, output_size=3)
+T:73.68723487854004
+Generation93
+Model(gen=51, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=70.85340137267235, rnn_size=128, controller_size=256, output_size=3)
+T:79.09536218643188
+Generation94
+Model(gen=50, eps=0.01, both_p=0.6499999999999998, controller_p=0.6000000000000001, encoder_p=0.95, no_rew=18, acc=47.6611968899956, rnn_size=128, controller_size=256, output_size=3)
+T:83.13982439041138
+Generation95
+Model(gen=53, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.7499999999999998, no_rew=18, acc=48.92650709846042, rnn_size=128, controller_size=256, output_size=3)
+T:78.97440528869629
+Generation96
+Model(gen=53, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=52.53134725432511, rnn_size=128, controller_size=256, output_size=3)
+T:85.50770139694214
+Generation97
+Model(gen=52, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.8499999999999999, no_rew=18, acc=53.76618534829536, rnn_size=128, controller_size=256, output_size=3)
+T:90.34939074516296
+Generation98
+Model(gen=57, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=69.73453679509264, rnn_size=128, controller_size=256, output_size=3)
+T:89.22672939300537
+Generation99
+Model(gen=54, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.7999999999999998, no_rew=18, acc=62.57280407261721, rnn_size=128, controller_size=256, output_size=3)
+T:90.77260375022888
+Generation100
+Model(gen=54, eps=0.01, both_p=0.5499999999999997, controller_p=0.55, encoder_p=0.6999999999999997, no_rew=18, acc=66.74149432523063, rnn_size=128, controller_size=256, output_size=3)
+T:90.09421277046204
+Generation101
+Model(gen=55, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=56.695638870536044, rnn_size=128, controller_size=256, output_size=3)
+T:89.01898050308228
+Generation102
+Model(gen=59, eps=0.01, both_p=0.5999999999999998, controller_p=0.6000000000000001, encoder_p=0.5999999999999996, no_rew=18, acc=74.88323823003775, rnn_size=128, controller_size=256, output_size=3)
+T:89.13755083084106
+Generation103
+Model(gen=55, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.6499999999999997, no_rew=18, acc=60.21060246148651, rnn_size=128, controller_size=256, output_size=3)
+T:91.27303767204285
+Generation104
+Model(gen=57, eps=0.01, both_p=0.6499999999999998, controller_p=0.6500000000000001, encoder_p=0.6499999999999997, no_rew=18, acc=57.28178542672458, rnn_size=128, controller_size=256, output_size=3)
+T:86.32118225097656
+Generation105
+Model(gen=53, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.6999999999999997, no_rew=18, acc=64.1250370090217, rnn_size=128, controller_size=256, output_size=3)
+T:85.98884606361389
+Generation106
+Model(gen=60, eps=0.01, both_p=0.5499999999999997, controller_p=0.6000000000000001, encoder_p=0.95, no_rew=18, acc=63.832224106087125, rnn_size=128, controller_size=256, output_size=3)
+T:118.87169766426086
+Generation107
+Model(gen=60, eps=0.01, both_p=0.6499999999999998, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=47.41969078009122, rnn_size=128, controller_size=256, output_size=3)
+T:141.91563534736633
+Generation108
+Model(gen=61, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=46.76953038443224, rnn_size=128, controller_size=256, output_size=3)
+T:136.73724699020386
+Generation109
+Model(gen=53, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.6999999999999997, no_rew=18, acc=60.59800714715228, rnn_size=128, controller_size=256, output_size=3)
+T:148.64990782737732
+Generation110
+Model(gen=59, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=69.47670277169, rnn_size=128, controller_size=256, output_size=3)
+T:158.46994876861572
+Generation111
+Model(gen=54, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.7499999999999998, no_rew=18, acc=70.93197004951477, rnn_size=128, controller_size=256, output_size=3)
+T:152.40702271461487
+Generation112
+Model(gen=59, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.7499999999999998, no_rew=18, acc=56.31466871963373, rnn_size=128, controller_size=256, output_size=3)
+T:146.31748819351196
+Generation113
+Model(gen=55, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=76.17979541198027, rnn_size=128, controller_size=256, output_size=3)
+T:32356.36216020584
+Generation114
+candidate[0] fitness:136.07407407407527
+Model(gen=55, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=68.8397068376572, rnn_size=128, controller_size=256, output_size=3)
+T:251.57555723190308
+Generation115
+Model(gen=55, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.6999999999999997, no_rew=18, acc=60.026352143596064, rnn_size=128, controller_size=256, output_size=3)
+T:226.35840439796448
+Generation116
+Model(gen=56, eps=0.01, both_p=0.5499999999999997, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=62.419610758954406, rnn_size=128, controller_size=256, output_size=3)
+T:260.0192437171936
+Generation117
+Model(gen=56, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=69.07790058891501, rnn_size=128, controller_size=256, output_size=3)
+T:243.66228938102722
+Generation118
+Model(gen=58, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.7999999999999998, no_rew=18, acc=66.45747618279411, rnn_size=128, controller_size=256, output_size=3)
+T:232.74854373931885
+Generation119
+Model(gen=62, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.4999999999999996, no_rew=18, acc=73.2922617264227, rnn_size=128, controller_size=256, output_size=3)
+T:197.80666089057922
+Generation120
+Model(gen=63, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.7499999999999998, no_rew=18, acc=60.90578606778153, rnn_size=128, controller_size=256, output_size=3)
+T:192.32876634597778
+Generation121
+Model(gen=59, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=77.35267873508907, rnn_size=128, controller_size=256, output_size=3)
+T:166.5206263065338
+Generation122
+Model(gen=60, eps=0.01, both_p=0.6499999999999998, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=72.93427674518345, rnn_size=128, controller_size=256, output_size=3)
+T:110.31756973266602
+Generation123
+Model(gen=60, eps=0.01, both_p=0.5499999999999997, controller_p=0.45, encoder_p=0.7999999999999998, no_rew=18, acc=57.898180593751995, rnn_size=128, controller_size=256, output_size=3)
+T:106.34839344024658
+Generation124
+Generation0
+candidate[0] fitness:16.22631578947367
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=16.732689787420465, rnn_size=128, controller_size=256, output_size=3)
+T:91.0582914352417
+Generation1
+Model(gen=1, eps=0.01, both_p=0.9500000000000001, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=16.168300032095768, rnn_size=128, controller_size=256, output_size=3)
+T:88.78220081329346
+Generation2
+Model(gen=1, eps=0.01, both_p=0.9, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=26.911777549768793, rnn_size=128, controller_size=256, output_size=3)
+T:102.1271481513977
+Generation3
+Model(gen=2, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=43.2115575223857, rnn_size=128, controller_size=256, output_size=3)
+T:124.60562515258789
+Generation4
+Model(gen=2, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=40.52349800280976, rnn_size=128, controller_size=256, output_size=3)
+T:124.66448473930359
+Generation5
+candidate[0] fitness:120.9515151515155
+Model(gen=2, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=38.30814412978904, rnn_size=128, controller_size=256, output_size=3)
+T:131.6941695213318
+Generation6
+Model(gen=4, eps=0.01, both_p=0.9, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=54.28676290751982, rnn_size=128, controller_size=256, output_size=3)
+T:295.97100830078125
+Generation7
+Model(gen=4, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=50.47945075324806, rnn_size=128, controller_size=256, output_size=3)
+T:230.0628538131714
+Generation8
+Model(gen=6, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=52.176775000817685, rnn_size=128, controller_size=256, output_size=3)
+T:164.28569507598877
+Generation9
+Model(gen=4, eps=0.01, both_p=0.95, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=44.06684114041009, rnn_size=128, controller_size=256, output_size=3)
+T:158.9280936717987
+Generation10
+candidate[0] fitness:154.31201413427615
+Model(gen=4, eps=0.01, both_p=0.95, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=49.438389555204814, rnn_size=128, controller_size=256, output_size=3)
+T:176.56187963485718
+Generation11
+candidate[0] fitness:103.95471698113226
+Model(gen=4, eps=0.01, both_p=0.95, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=48.27219078638235, rnn_size=128, controller_size=256, output_size=3)
+T:164.89395999908447
+Generation12
+Model(gen=6, eps=0.01, both_p=0.85, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=37.65528776773735, rnn_size=128, controller_size=256, output_size=3)
+T:169.1073968410492
+Generation13
+Model(gen=9, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=63.32213144409353, rnn_size=128, controller_size=256, output_size=3)
+T:254.29774069786072
+Generation14
+candidate[0] fitness:169.23183391003516
+Model(gen=9, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=63.951490888459766, rnn_size=128, controller_size=256, output_size=3)
+T:238.90685081481934
+Generation15
+Model(gen=6, eps=0.01, both_p=1.0, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=46.52395604055937, rnn_size=128, controller_size=256, output_size=3)
+T:245.62547183036804
+Generation16
+Model(gen=10, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=63.662819302573986, rnn_size=128, controller_size=256, output_size=3)
+T:222.1311149597168
+Generation17
+Model(gen=10, eps=0.01, both_p=0.85, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=66.35026019650343, rnn_size=128, controller_size=256, output_size=3)
+T:323.77778220176697
+Generation18
+candidate[0] fitness:168.64206642066526
+Model(gen=10, eps=0.01, both_p=0.85, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=67.89819383548046, rnn_size=128, controller_size=256, output_size=3)
+T:347.18911957740784
+Generation19
+Model(gen=11, eps=0.01, both_p=0.85, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=69.88616806437415, rnn_size=128, controller_size=256, output_size=3)
+T:320.98469829559326
+Generation20
+Model(gen=13, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=60.26881208266584, rnn_size=128, controller_size=256, output_size=3)
+T:316.1524646282196
+Generation21
+Model(gen=14, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=67.761497899996, rnn_size=128, controller_size=256, output_size=3)
+T:411.53083658218384
+Generation22
+Model(gen=15, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.8499999999999999, no_rew=18, acc=45.01062569508755, rnn_size=128, controller_size=256, output_size=3)
+T:260.888720035553
+Generation23
+Model(gen=15, eps=0.01, both_p=0.85, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=80.03938298846583, rnn_size=128, controller_size=256, output_size=3)
+T:296.38075828552246
+Generation24
+Model(gen=13, eps=0.01, both_p=0.6999999999999998, controller_p=0.4, encoder_p=0.8499999999999999, no_rew=18, acc=78.8547218931547, rnn_size=128, controller_size=256, output_size=3)
+T:138.47924971580505
+Generation25
+Model(gen=17, eps=0.01, both_p=0.85, controller_p=0.55, encoder_p=0.95, no_rew=18, acc=60.255180163320766, rnn_size=128, controller_size=256, output_size=3)
+T:139.10287642478943
+Generation26
+candidate[0] fitness:109.32899628252835
+Model(gen=15, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=63.28977504693012, rnn_size=128, controller_size=256, output_size=3)
+T:131.05830430984497
+Generation27
+candidate[0] fitness:127.95130111524239
+Model(gen=12, eps=0.01, both_p=0.7499999999999999, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=83.25860737763027, rnn_size=128, controller_size=256, output_size=3)
+T:163.50985288619995
+Generation28
+Model(gen=19, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=93.72138571193373, rnn_size=128, controller_size=256, output_size=3)
+T:182.5375566482544
+Generation29
+Model(gen=19, eps=0.01, both_p=0.85, controller_p=0.45, encoder_p=0.7999999999999998, no_rew=18, acc=79.11746416234261, rnn_size=128, controller_size=256, output_size=3)
+T:185.7222456932068
+Generation30
+Model(gen=19, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=91.16921573757755, rnn_size=128, controller_size=256, output_size=3)
+T:229.47019577026367
+Generation31
+Model(gen=21, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=89.0588149116214, rnn_size=128, controller_size=256, output_size=3)
+T:361.93630194664
+Generation32
+candidate[0] fitness:163.91342756183823
+Model(gen=21, eps=0.01, both_p=0.9, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=76.93699703136117, rnn_size=128, controller_size=256, output_size=3)
+T:306.98486161231995
+Generation33
+Model(gen=22, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=68.39513328364981, rnn_size=128, controller_size=256, output_size=3)
+T:237.61386704444885
+Generation34
+Model(gen=22, eps=0.01, both_p=0.7499999999999999, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=65.39014174951508, rnn_size=128, controller_size=256, output_size=3)
+T:272.1882336139679
+Generation35
+Model(gen=22, eps=0.01, both_p=0.7999999999999999, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=76.52100369989707, rnn_size=128, controller_size=256, output_size=3)
+T:240.69004774093628
+Generation36
+Model(gen=22, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=70.69056757928121, rnn_size=128, controller_size=256, output_size=3)
+T:139.7288544178009
+Generation37
+Model(gen=20, eps=0.01, both_p=0.7999999999999999, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=64.604494341049, rnn_size=128, controller_size=256, output_size=3)
+T:144.92373657226562
+Generation38
+Model(gen=27, eps=0.01, both_p=0.9, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=80.69569912660239, rnn_size=128, controller_size=256, output_size=3)
+T:163.431871175766
+Generation39
+Model(gen=23, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.8499999999999999, no_rew=18, acc=93.07335068023055, rnn_size=128, controller_size=256, output_size=3)
+T:164.21566486358643
+Generation40
+Model(gen=27, eps=0.01, both_p=0.9500000000000001, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=86.78032567861105, rnn_size=128, controller_size=256, output_size=3)
+T:162.74570655822754
+Generation41
+Model(gen=23, eps=0.01, both_p=0.85, controller_p=0.5, encoder_p=0.8499999999999999, no_rew=18, acc=91.08463228763713, rnn_size=128, controller_size=256, output_size=3)
+T:304.4216980934143
+Generation42
+Model(gen=28, eps=0.01, both_p=0.9500000000000001, controller_p=0.4, encoder_p=0.8499999999999999, no_rew=18, acc=72.01854968185846, rnn_size=128, controller_size=256, output_size=3)
+T:135.6743507385254
+Generation43
+Model(gen=24, eps=0.01, both_p=0.85, controller_p=0.55, encoder_p=0.8999999999999999, no_rew=18, acc=75.87420832782136, rnn_size=128, controller_size=256, output_size=3)
+T:124.68227005004883
+Generation44
+Model(gen=25, eps=0.01, both_p=0.7999999999999999, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=83.45604648907994, rnn_size=128, controller_size=256, output_size=3)
+T:116.23506784439087
+Generation45
+Model(gen=26, eps=0.01, both_p=0.7499999999999999, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=85.69310023537349, rnn_size=128, controller_size=256, output_size=3)
+T:131.048259973526
+Generation46
+Model(gen=25, eps=0.01, both_p=0.85, controller_p=0.55, encoder_p=0.5999999999999996, no_rew=18, acc=57.386923706990636, rnn_size=128, controller_size=256, output_size=3)
+T:111.25599765777588
+Generation47
+Model(gen=33, eps=0.01, both_p=0.9, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=67.1672912746962, rnn_size=128, controller_size=256, output_size=3)
+T:167.04221558570862
+Generation48
+Model(gen=28, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=81.29981253733818, rnn_size=128, controller_size=256, output_size=3)
+T:131.63521909713745
+Generation49
+candidate[0] fitness:120.70989399293337
+Model(gen=29, eps=0.01, both_p=0.7499999999999999, controller_p=0.30000000000000004, encoder_p=0.8999999999999999, no_rew=18, acc=136.7557810891626, rnn_size=128, controller_size=256, output_size=3)
+T:217.31882762908936
+Generation50
+Model(gen=29, eps=0.01, both_p=0.7499999999999999, controller_p=0.30000000000000004, encoder_p=0.8999999999999999, no_rew=18, acc=132.4549391694386, rnn_size=128, controller_size=256, output_size=3)
+T:162.35760188102722
+Generation51
+Model(gen=30, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.7999999999999998, no_rew=18, acc=98.77683236364037, rnn_size=128, controller_size=256, output_size=3)
+T:211.14348888397217
+Generation52
+Model(gen=28, eps=0.01, both_p=0.7999999999999999, controller_p=0.45, encoder_p=0.6999999999999997, no_rew=18, acc=81.73773568897207, rnn_size=128, controller_size=256, output_size=3)
+T:167.34257054328918
+Generation53
+Model(gen=30, eps=0.01, both_p=0.7499999999999999, controller_p=0.30000000000000004, encoder_p=0.8499999999999999, no_rew=18, acc=71.50319566005939, rnn_size=128, controller_size=256, output_size=3)
+T:186.60912322998047
+Generation54
+Model(gen=31, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=83.32293674493164, rnn_size=128, controller_size=256, output_size=3)
+T:180.3024709224701
+Generation55
+Model(gen=32, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=76.94866039704071, rnn_size=128, controller_size=256, output_size=3)
+T:166.46110606193542
+Generation56
+candidate[0] fitness:118.80588235294151
+Model(gen=32, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=86.48790669366917, rnn_size=128, controller_size=256, output_size=3)
+T:178.00878190994263
+Generation57
+Model(gen=35, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.8999999999999999, no_rew=18, acc=114.53289393452827, rnn_size=128, controller_size=256, output_size=3)
+T:185.7421841621399
+Generation58
+Model(gen=34, eps=0.01, both_p=0.7999999999999999, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=83.3116604614448, rnn_size=128, controller_size=256, output_size=3)
+T:158.7181580066681
+Generation59
+Model(gen=31, eps=0.01, both_p=0.6999999999999998, controller_p=0.35000000000000003, encoder_p=0.8999999999999999, no_rew=18, acc=130.78435599847447, rnn_size=128, controller_size=256, output_size=3)
+T:210.66359281539917
+Generation60
+Model(gen=35, eps=0.01, both_p=0.7499999999999999, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=121.72111546129915, rnn_size=128, controller_size=256, output_size=3)
+T:182.00397515296936
+Generation61
+Model(gen=39, eps=0.01, both_p=0.7499999999999999, controller_p=0.15000000000000008, encoder_p=0.95, no_rew=18, acc=100.6467730297338, rnn_size=128, controller_size=256, output_size=3)
+T:181.739586353302
+Generation62
+Model(gen=38, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.7999999999999998, no_rew=18, acc=103.99550769329842, rnn_size=128, controller_size=256, output_size=3)
+T:202.22269558906555
+Generation63
+Model(gen=38, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.7999999999999998, no_rew=18, acc=127.40538615980067, rnn_size=128, controller_size=256, output_size=3)
+T:180.68030881881714
+Generation64
+Model(gen=40, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.8999999999999999, no_rew=18, acc=147.5253273409535, rnn_size=128, controller_size=256, output_size=3)
+T:239.28437542915344
+Generation65
+Model(gen=39, eps=0.01, both_p=0.6499999999999998, controller_p=0.20000000000000007, encoder_p=0.8999999999999999, no_rew=18, acc=147.4729554162415, rnn_size=128, controller_size=256, output_size=3)
+T:175.67434310913086
+Generation66
+Model(gen=40, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.8999999999999999, no_rew=18, acc=135.4431734413181, rnn_size=128, controller_size=256, output_size=3)
+T:221.20108652114868
+Generation67
+Model(gen=41, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.95, no_rew=18, acc=159.0602572037095, rnn_size=128, controller_size=256, output_size=3)
+T:256.1167941093445
+Generation68
+Model(gen=42, eps=0.01, both_p=0.6999999999999998, controller_p=0.25000000000000006, encoder_p=0.6999999999999997, no_rew=18, acc=162.9915834684743, rnn_size=128, controller_size=256, output_size=3)
+T:232.61471223831177
+Generation69
+Model(gen=42, eps=0.01, both_p=0.5999999999999998, controller_p=0.25000000000000006, encoder_p=0.6499999999999997, no_rew=18, acc=163.56074737978355, rnn_size=128, controller_size=256, output_size=3)
+T:205.77459144592285
+Generation70
+Model(gen=42, eps=0.01, both_p=0.6999999999999998, controller_p=0.20000000000000007, encoder_p=0.95, no_rew=18, acc=129.49418601219688, rnn_size=128, controller_size=256, output_size=3)
+T:152.01428723335266
+Generation71
+Model(gen=42, eps=0.01, both_p=0.6999999999999998, controller_p=0.15000000000000008, encoder_p=0.95, no_rew=18, acc=155.7597893995232, rnn_size=128, controller_size=256, output_size=3)
+T:169.21037769317627
+Generation72
+Model(gen=42, eps=0.01, both_p=0.7499999999999999, controller_p=0.20000000000000007, encoder_p=0.8499999999999999, no_rew=18, acc=167.64532716008523, rnn_size=128, controller_size=256, output_size=3)
+T:160.88127040863037
+Generation73
+Model(gen=43, eps=0.01, both_p=0.5999999999999998, controller_p=0.25000000000000006, encoder_p=0.8999999999999999, no_rew=18, acc=179.58003342681516, rnn_size=128, controller_size=256, output_size=3)
+T:173.83806920051575
+Generation74
+Model(gen=44, eps=0.01, both_p=0.5999999999999998, controller_p=0.25000000000000006, encoder_p=0.6999999999999997, no_rew=18, acc=137.63419379166692, rnn_size=128, controller_size=256, output_size=3)
+T:149.8247492313385
+Generation75
+Model(gen=46, eps=0.01, both_p=0.6499999999999998, controller_p=0.20000000000000007, encoder_p=0.7999999999999998, no_rew=18, acc=171.5779387246404, rnn_size=128, controller_size=256, output_size=3)
+T:167.6972098350525
+Generation76
+Model(gen=43, eps=0.01, both_p=0.5999999999999998, controller_p=0.25000000000000006, encoder_p=0.6499999999999997, no_rew=18, acc=157.9003960194274, rnn_size=128, controller_size=256, output_size=3)
+T:165.43424701690674
+Generation77
+Model(gen=46, eps=0.01, both_p=0.5999999999999998, controller_p=0.30000000000000004, encoder_p=0.8999999999999999, no_rew=18, acc=195.55496969171446, rnn_size=128, controller_size=256, output_size=3)
+T:214.85088300704956
+Generation78
+Model(gen=43, eps=0.01, both_p=0.5999999999999998, controller_p=0.25000000000000006, encoder_p=0.6499999999999997, no_rew=18, acc=153.55905092375036, rnn_size=128, controller_size=256, output_size=3)
+T:231.5609016418457
+Generation79
+Model(gen=46, eps=0.01, both_p=0.5999999999999998, controller_p=0.30000000000000004, encoder_p=0.8999999999999999, no_rew=18, acc=198.02334665188442, rnn_size=128, controller_size=256, output_size=3)
+T:314.92160820961
+Generation80
+Model(gen=42, eps=0.01, both_p=0.7499999999999999, controller_p=0.20000000000000007, encoder_p=0.8499999999999999, no_rew=18, acc=162.40908926691236, rnn_size=128, controller_size=256, output_size=3)
+T:245.5562403202057
+Generation81
+candidate[0] fitness:226.35852842809535
+Model(gen=46, eps=0.01, both_p=0.5999999999999998, controller_p=0.30000000000000004, encoder_p=0.8999999999999999, no_rew=18, acc=187.88849387523896, rnn_size=128, controller_size=256, output_size=3)
+T:231.90898823738098
+Generation82
+Model(gen=45, eps=0.01, both_p=0.5999999999999998, controller_p=0.25000000000000006, encoder_p=0.95, no_rew=18, acc=146.03050767013863, rnn_size=128, controller_size=256, output_size=3)
+T:195.4157955646515
+Generation83
+Model(gen=47, eps=0.01, both_p=0.5999999999999998, controller_p=0.30000000000000004, encoder_p=0.6999999999999997, no_rew=18, acc=163.2069654787094, rnn_size=128, controller_size=256, output_size=3)
+T:207.7265818119049
+Generation84
+Model(gen=49, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=169.27547969762867, rnn_size=128, controller_size=256, output_size=3)
+T:214.1073522567749
+Generation85
+Model(gen=50, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=213.44014632387882, rnn_size=128, controller_size=256, output_size=3)
+T:211.56964087486267
+Generation86
+Model(gen=50, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=214.0825240395821, rnn_size=128, controller_size=256, output_size=3)
+T:202.5605344772339
+Generation87
+Model(gen=51, eps=0.01, both_p=0.5499999999999997, controller_p=0.30000000000000004, encoder_p=0.5999999999999996, no_rew=18, acc=244.60931080702323, rnn_size=128, controller_size=256, output_size=3)
+T:253.5311198234558
+Generation88
+Model(gen=51, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=182.87508981968384, rnn_size=128, controller_size=256, output_size=3)
+T:321.69191098213196
+Generation89
+Model(gen=53, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=198.9390222444104, rnn_size=128, controller_size=256, output_size=3)
+T:293.74782276153564
+Generation90
+Model(gen=54, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.6999999999999997, no_rew=18, acc=200.3313783238336, rnn_size=128, controller_size=256, output_size=3)
+T:320.6903250217438
+Generation91
+Model(gen=53, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=185.90804874636717, rnn_size=128, controller_size=256, output_size=3)
+T:251.29515051841736
+Generation92
+candidate[0] fitness:259.2819672131153
+Model(gen=53, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=204.50079639609865, rnn_size=128, controller_size=256, output_size=3)
+T:349.1228897571564
+Generation93
+Model(gen=54, eps=0.01, both_p=0.5499999999999997, controller_p=0.45, encoder_p=0.7499999999999998, no_rew=18, acc=213.72433591466418, rnn_size=128, controller_size=256, output_size=3)
+T:322.46139121055603
+Generation94
+candidate[0] fitness:356.7453287197216
+Model(gen=55, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=259.4543388727011, rnn_size=128, controller_size=256, output_size=3)
+T:281.3057761192322
+Generation95
+Model(gen=55, eps=0.01, both_p=0.5499999999999997, controller_p=0.5, encoder_p=0.7999999999999998, no_rew=18, acc=256.7448219305677, rnn_size=128, controller_size=256, output_size=3)
+T:313.23913168907166
+Generation96
+Model(gen=54, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=252.4683106185942, rnn_size=128, controller_size=256, output_size=3)
+T:307.48701882362366
+Generation97
+Model(gen=57, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.5999999999999996, no_rew=18, acc=215.9969526242701, rnn_size=128, controller_size=256, output_size=3)
+T:268.57785081863403
+Generation98
+candidate[0] fitness:272.82830188679316
+Model(gen=57, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.5999999999999996, no_rew=18, acc=216.0210608029495, rnn_size=128, controller_size=256, output_size=3)
+T:246.48056530952454
+Generation99
+Model(gen=58, eps=0.01, both_p=0.5499999999999997, controller_p=0.30000000000000004, encoder_p=0.8499999999999999, no_rew=18, acc=200.46009479210576, rnn_size=128, controller_size=256, output_size=3)
+T:262.1781289577484
+Generation100
+Model(gen=54, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=239.50127978930388, rnn_size=128, controller_size=256, output_size=3)
+T:463.59834241867065
+Generation101
+Model(gen=55, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=221.82908260089212, rnn_size=128, controller_size=256, output_size=3)
+T:763.0645136833191
+Generation102
+Model(gen=60, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=171.45024261458533, rnn_size=128, controller_size=256, output_size=3)
+T:348.55861043930054
+Generation103
+Model(gen=57, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=232.94310926539063, rnn_size=128, controller_size=256, output_size=3)
+T:492.11210775375366
+Generation104
+Model(gen=60, eps=0.01, both_p=0.4999999999999997, controller_p=0.5, encoder_p=0.7999999999999998, no_rew=18, acc=187.39278781601453, rnn_size=128, controller_size=256, output_size=3)
+T:264.4850742816925
+Generation105
+Model(gen=61, eps=0.01, both_p=0.4999999999999997, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=305.072914696529, rnn_size=128, controller_size=256, output_size=3)
+T:323.43728160858154
+Generation106
+Model(gen=56, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.6499999999999997, no_rew=18, acc=229.3162492323713, rnn_size=128, controller_size=256, output_size=3)
+T:294.7386190891266
+Generation107
+Model(gen=62, eps=0.01, both_p=0.4999999999999997, controller_p=0.5, encoder_p=0.6999999999999997, no_rew=18, acc=239.0089614588226, rnn_size=128, controller_size=256, output_size=3)
+T:309.130597114563
+Generation108
+Model(gen=57, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=223.25522244909146, rnn_size=128, controller_size=256, output_size=3)
+T:296.14486861228943
+Generation109
+Model(gen=64, eps=0.01, both_p=0.4999999999999997, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=262.9512197613714, rnn_size=128, controller_size=256, output_size=3)
+T:325.49006152153015
+Generation110
+Model(gen=61, eps=0.01, both_p=0.5999999999999998, controller_p=0.55, encoder_p=0.7499999999999998, no_rew=18, acc=281.5253298145922, rnn_size=128, controller_size=256, output_size=3)
+T:374.8242311477661
+Generation111
+Model(gen=66, eps=0.01, both_p=0.5499999999999997, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=184.9194910344567, rnn_size=128, controller_size=256, output_size=3)
+T:338.3263533115387
+Generation112
+Model(gen=66, eps=0.01, both_p=0.4999999999999997, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=318.0953412797673, rnn_size=128, controller_size=256, output_size=3)
+T:414.6935772895813
+Generation113
+Model(gen=59, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6499999999999997, no_rew=18, acc=244.63796984304332, rnn_size=128, controller_size=256, output_size=3)
+T:276.0060348510742
+Generation114
+Model(gen=64, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.6999999999999997, no_rew=18, acc=208.84764487396907, rnn_size=128, controller_size=256, output_size=3)
+T:343.7763133049011
+Generation115
+Model(gen=67, eps=0.01, both_p=0.4999999999999997, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=216.25332045784117, rnn_size=128, controller_size=256, output_size=3)
+T:312.672869682312
+Generation116
+Model(gen=65, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=189.7244941071113, rnn_size=128, controller_size=256, output_size=3)
+T:353.05480575561523
+Generation117
+Model(gen=64, eps=0.01, both_p=0.5499999999999997, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=175.63109560520388, rnn_size=128, controller_size=256, output_size=3)
+T:300.26198720932007
+Generation118
+Model(gen=61, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.6999999999999997, no_rew=18, acc=230.14404818212287, rnn_size=128, controller_size=256, output_size=3)
+T:292.6256010532379
+Generation119
+Model(gen=62, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=298.4242750461955, rnn_size=128, controller_size=256, output_size=3)
+T:323.38281178474426
+Generation120
+Model(gen=68, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=266.0877805207584, rnn_size=128, controller_size=256, output_size=3)
+T:304.0239112377167
+Generation121
+Model(gen=72, eps=0.01, both_p=0.44999999999999973, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=276.1871138956408, rnn_size=128, controller_size=256, output_size=3)
+T:319.8378059864044
+Generation122
+Model(gen=70, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.8499999999999999, no_rew=18, acc=239.95270295080445, rnn_size=128, controller_size=256, output_size=3)
+T:354.9134075641632
+Generation123
+Model(gen=71, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=230.23315554855495, rnn_size=128, controller_size=256, output_size=3)
+T:311.7060196399689
+Generation124
+Model(gen=66, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=252.28674032576626, rnn_size=128, controller_size=256, output_size=3)
+T:289.7281539440155
+Generation125
+candidate[0] fitness:352.74057507987135
+Model(gen=66, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=266.5022598812325, rnn_size=128, controller_size=256, output_size=3)
+T:276.3803400993347
+Generation126
+Model(gen=64, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.6999999999999997, no_rew=18, acc=205.82023482980824, rnn_size=128, controller_size=256, output_size=3)
+T:284.0888772010803
+Generation127
+Model(gen=65, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.95, no_rew=18, acc=218.62344365051334, rnn_size=128, controller_size=256, output_size=3)
+T:303.08189129829407
+Generation128
+Model(gen=65, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.7999999999999998, no_rew=18, acc=255.39018287848427, rnn_size=128, controller_size=256, output_size=3)
+T:409.9510362148285
+Generation129
+Model(gen=67, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.7999999999999998, no_rew=18, acc=270.16826907268904, rnn_size=128, controller_size=256, output_size=3)
+T:366.8866300582886
+Generation130
+Model(gen=66, eps=0.01, both_p=0.4999999999999997, controller_p=0.35000000000000003, encoder_p=0.7999999999999998, no_rew=18, acc=220.96881150849137, rnn_size=128, controller_size=256, output_size=3)
+T:326.4703869819641
+Generation131
+Model(gen=70, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=256.502792061804, rnn_size=128, controller_size=256, output_size=3)
+T:537.8070800304413
+Generation132
+candidate[0] fitness:371.211400651463
+Model(gen=70, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=280.1424553463886, rnn_size=128, controller_size=256, output_size=3)
+T:638.4052453041077
+Generation133
+Model(gen=71, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=246.44034772759838, rnn_size=128, controller_size=256, output_size=3)
+T:322.52912759780884
+Generation134
+Model(gen=72, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.5999999999999996, no_rew=18, acc=225.6559122994209, rnn_size=128, controller_size=256, output_size=3)
+T:729.4850671291351
+Generation135
+Model(gen=72, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=247.14931935211837, rnn_size=128, controller_size=256, output_size=3)
+T:355.6578879356384
+Generation136
+Model(gen=73, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=299.74325116101045, rnn_size=128, controller_size=256, output_size=3)
+T:442.39334774017334
+Generation137
+candidate[0] fitness:533.8583629893183
+Model(gen=73, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.95, no_rew=18, acc=294.7282327556853, rnn_size=128, controller_size=256, output_size=3)
+T:515.0582695007324
+Generation138
+Model(gen=73, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=289.395775955993, rnn_size=128, controller_size=256, output_size=3)
+T:305.22165966033936
+Generation139
+Model(gen=74, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=224.79687624472913, rnn_size=128, controller_size=256, output_size=3)
+T:323.897091627121
+Generation140
+Model(gen=70, eps=0.01, both_p=0.5499999999999997, controller_p=0.45, encoder_p=0.8499999999999999, no_rew=18, acc=243.72019004321757, rnn_size=128, controller_size=256, output_size=3)
+T:345.45804142951965
+Generation141
+Model(gen=75, eps=0.01, both_p=0.4999999999999997, controller_p=0.4, encoder_p=0.8499999999999999, no_rew=18, acc=333.9682939593502, rnn_size=128, controller_size=256, output_size=3)
+T:341.0231566429138
+Generation142
+Model(gen=77, eps=0.01, both_p=0.5499999999999997, controller_p=0.30000000000000004, encoder_p=0.95, no_rew=18, acc=372.15587949665115, rnn_size=128, controller_size=256, output_size=3)
+T:428.0237123966217
+Generation143
+candidate[0] fitness:495.89041095889894
+Model(gen=77, eps=0.01, both_p=0.5499999999999997, controller_p=0.30000000000000004, encoder_p=0.95, no_rew=18, acc=293.91270386587325, rnn_size=128, controller_size=256, output_size=3)
+T:424.0016520023346
+Generation144
+Model(gen=75, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6499999999999997, no_rew=18, acc=355.8881091162416, rnn_size=128, controller_size=256, output_size=3)
+T:468.84483790397644
+Generation145
+Model(gen=76, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=486.3109900967385, rnn_size=128, controller_size=256, output_size=3)
+T:565.2869007587433
+Generation146
+candidate[0] fitness:641.7218543046297
+Model(gen=76, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=419.952490222351, rnn_size=128, controller_size=256, output_size=3)
+T:511.3981795310974
+Generation147
+Model(gen=77, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=431.6979192197735, rnn_size=128, controller_size=256, output_size=3)
+T:678.8982577323914
+Generation148
+Model(gen=78, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=379.5979393436368, rnn_size=128, controller_size=256, output_size=3)
+T:508.743727684021
+Generation149
+Model(gen=79, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=469.8966271023076, rnn_size=128, controller_size=256, output_size=3)
+T:1012.2567203044891
+Generation150
+Model(gen=79, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.5499999999999996, no_rew=18, acc=393.0354945360561, rnn_size=128, controller_size=256, output_size=3)
+T:641.75497174263
+Generation151
+Model(gen=79, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=470.6435175514555, rnn_size=128, controller_size=256, output_size=3)
+T:773.0866053104401
+Generation152
+Model(gen=79, eps=0.01, both_p=0.6499999999999998, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=479.777689680894, rnn_size=128, controller_size=256, output_size=3)
+T:570.217357635498
+Generation153
+Model(gen=80, eps=0.01, both_p=0.6499999999999998, controller_p=0.35000000000000003, encoder_p=0.8499999999999999, no_rew=18, acc=410.4070796954441, rnn_size=128, controller_size=256, output_size=3)
+T:441.7211310863495
+Generation154
+Model(gen=81, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.5999999999999996, no_rew=18, acc=457.1854628450366, rnn_size=128, controller_size=256, output_size=3)
+T:442.60921144485474
+Generation155
+Model(gen=81, eps=0.01, both_p=0.6499999999999998, controller_p=0.4, encoder_p=0.8999999999999999, no_rew=18, acc=454.67311498232795, rnn_size=128, controller_size=256, output_size=3)
+T:859.6577026844025
+Generation156
+Model(gen=80, eps=0.01, both_p=0.6499999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=437.35572366365375, rnn_size=128, controller_size=256, output_size=3)
+T:928.8840043544769
+Generation157
+candidate[0] fitness:593.018681318675
+Model(gen=80, eps=0.01, both_p=0.6499999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=443.6495222908116, rnn_size=128, controller_size=256, output_size=3)
+T:546.8742091655731
+Generation158
+candidate[0] fitness:578.8321167883142
+Model(gen=80, eps=0.01, both_p=0.6499999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=433.2078571113676, rnn_size=128, controller_size=256, output_size=3)
+T:455.61636662483215
+Generation159
+Model(gen=84, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.5999999999999996, no_rew=18, acc=462.69648444047635, rnn_size=128, controller_size=256, output_size=3)
+T:829.2047772407532
+Generation160
+Model(gen=84, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=332.20208968843957, rnn_size=128, controller_size=256, output_size=3)
+T:523.7688393592834
+Generation161
+Model(gen=84, eps=0.01, both_p=0.6499999999999998, controller_p=0.30000000000000004, encoder_p=0.6499999999999997, no_rew=18, acc=372.7051124326405, rnn_size=128, controller_size=256, output_size=3)
+T:989.627571105957
+Generation162
+Model(gen=84, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.6499999999999997, no_rew=18, acc=532.3852717014569, rnn_size=128, controller_size=256, output_size=3)
+T:1539.5527970790863
+Generation163
+Model(gen=84, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=378.0549278062386, rnn_size=128, controller_size=256, output_size=3)
+T:574.0175108909607
+Generation164
+Model(gen=85, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=367.9804925923463, rnn_size=128, controller_size=256, output_size=3)
+T:557.2519934177399
+Generation165
+Model(gen=86, eps=0.01, both_p=0.5499999999999997, controller_p=0.35000000000000003, encoder_p=0.7499999999999998, no_rew=18, acc=426.79492750762563, rnn_size=128, controller_size=256, output_size=3)
+T:475.12744212150574
+Generation166
+Model(gen=87, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=384.7024219747263, rnn_size=128, controller_size=256, output_size=3)
+T:533.3006596565247
+Generation167
+Model(gen=85, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.7499999999999998, no_rew=18, acc=403.45252496918914, rnn_size=128, controller_size=256, output_size=3)
+T:824.6021106243134
+Generation168
+Model(gen=86, eps=0.01, both_p=0.6499999999999998, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=550.1092956145235, rnn_size=128, controller_size=256, output_size=3)
+T:30111.544588565826
+Generation169
+Model(gen=87, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=501.7974843714576, rnn_size=128, controller_size=256, output_size=3)
+T:1060.2924418449402
+Generation170
+Model(gen=88, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=475.486571934739, rnn_size=128, controller_size=256, output_size=3)
+T:1084.041357755661
+Generation171
+Model(gen=89, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.6999999999999997, no_rew=18, acc=580.8736523162513, rnn_size=128, controller_size=256, output_size=3)
+T:1279.3875381946564
+Generation172
+candidate[0] fitness:699.4097902097806
+Model(gen=89, eps=0.01, both_p=0.6499999999999998, controller_p=0.35000000000000003, encoder_p=0.7999999999999998, no_rew=18, acc=544.1353368958704, rnn_size=128, controller_size=256, output_size=3)
+T:1075.789892911911
+Generation173
+Model(gen=89, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.7999999999999998, no_rew=18, acc=475.1236095285399, rnn_size=128, controller_size=256, output_size=3)
+T:515.2855739593506
+Generation174
+Model(gen=90, eps=0.01, both_p=0.6499999999999998, controller_p=0.30000000000000004, encoder_p=0.95, no_rew=18, acc=588.0226308909383, rnn_size=128, controller_size=256, output_size=3)
+T:575.9394142627716
+Generation175
+Model(gen=91, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=539.9859644505652, rnn_size=128, controller_size=256, output_size=3)
+T:642.533509016037
+Generation176
+Model(gen=90, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.6999999999999997, no_rew=18, acc=456.13436699196416, rnn_size=128, controller_size=256, output_size=3)
+T:587.7845468521118
+Generation177
+Model(gen=89, eps=0.01, both_p=0.6499999999999998, controller_p=0.35000000000000003, encoder_p=0.6999999999999997, no_rew=18, acc=476.69810685974994, rnn_size=128, controller_size=256, output_size=3)
+T:771.4920444488525
+Generation178
+Model(gen=92, eps=0.01, both_p=0.5999999999999998, controller_p=0.4, encoder_p=0.8499999999999999, no_rew=18, acc=553.2950584916205, rnn_size=128, controller_size=256, output_size=3)
+T:870.501371383667
+Generation179
+Model(gen=91, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.6499999999999997, no_rew=18, acc=514.4065747453438, rnn_size=128, controller_size=256, output_size=3)
+T:696.5124082565308
+Generation180
+Model(gen=94, eps=0.01, both_p=0.5999999999999998, controller_p=0.35000000000000003, encoder_p=0.4499999999999996, no_rew=18, acc=476.6390949932998, rnn_size=128, controller_size=256, output_size=3)
+T:666.569354057312
+Generation181
+Model(gen=94, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.6499999999999997, no_rew=18, acc=528.9108959135488, rnn_size=128, controller_size=256, output_size=3)
+T:656.8681154251099
+Generation182
+candidate[0] fitness:705.8608058607972
+Model(gen=94, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.6499999999999997, no_rew=18, acc=533.2724372746048, rnn_size=128, controller_size=256, output_size=3)
+T:885.027152299881
+Generation183
+Model(gen=92, eps=0.01, both_p=0.6999999999999998, controller_p=0.35000000000000003, encoder_p=0.7499999999999998, no_rew=18, acc=526.6509446367488, rnn_size=128, controller_size=256, output_size=3)
+T:754.199296951294
+Generation184
+Model(gen=92, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.4999999999999996, no_rew=18, acc=551.7728622825979, rnn_size=128, controller_size=256, output_size=3)
+T:748.9218099117279
+Generation185
+Model(gen=95, eps=0.01, both_p=0.6499999999999998, controller_p=0.45, encoder_p=0.7499999999999998, no_rew=18, acc=478.6970926148418, rnn_size=128, controller_size=256, output_size=3)
+T:580.5794296264648
+Generation186
+Model(gen=93, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.8999999999999999, no_rew=18, acc=556.0456020279626, rnn_size=128, controller_size=256, output_size=3)
+T:1030.5806279182434
+Generation187
+Model(gen=93, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=486.18712426610585, rnn_size=128, controller_size=256, output_size=3)
+T:631.4793393611908
+Generation188
+Model(gen=94, eps=0.01, both_p=0.5999999999999998, controller_p=0.45, encoder_p=0.5499999999999996, no_rew=18, acc=432.6910787164437, rnn_size=128, controller_size=256, output_size=3)
+T:683.6905162334442
+Generation189
+Model(gen=96, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=535.3349088058554, rnn_size=128, controller_size=256, output_size=3)
+T:697.8153834342957
+Generation190
+Model(gen=95, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.7499999999999998, no_rew=18, acc=536.6152089280082, rnn_size=128, controller_size=256, output_size=3)
+T:444.3670268058777
+Generation191
+candidate[0] fitness:700.547970479696
+Model(gen=95, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.7499999999999998, no_rew=18, acc=481.2963503154534, rnn_size=128, controller_size=256, output_size=3)
+T:438.7837588787079
+Generation192
+Model(gen=96, eps=0.01, both_p=0.5499999999999997, controller_p=0.4, encoder_p=0.95, no_rew=18, acc=582.3489825495624, rnn_size=128, controller_size=256, output_size=3)
+T:636.6072862148285
+Generation193
+Model(gen=97, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.6999999999999997, no_rew=18, acc=583.1767109019978, rnn_size=128, controller_size=256, output_size=3)
+T:637.1982340812683
+Generation194
+Model(gen=96, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=495.78502822518055, rnn_size=128, controller_size=256, output_size=3)
+T:852.6002316474915
+Generation195
+Model(gen=96, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.5499999999999996, no_rew=18, acc=385.4520624288096, rnn_size=128, controller_size=256, output_size=3)
+T:1032.9753603935242
+Generation196
+Model(gen=96, eps=0.01, both_p=0.6499999999999998, controller_p=0.45, encoder_p=0.6999999999999997, no_rew=18, acc=532.2871545938914, rnn_size=128, controller_size=256, output_size=3)
+T:778.6498029232025
+Generation197
+Model(gen=98, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.7999999999999998, no_rew=18, acc=430.3891759118143, rnn_size=128, controller_size=256, output_size=3)
+T:615.7309868335724
+Generation198
+Model(gen=98, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.7999999999999998, no_rew=18, acc=365.0162671759187, rnn_size=128, controller_size=256, output_size=3)
+T:608.9256649017334
+Generation199
+candidate[0] fitness:588.8888888888794
+Model(gen=95, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=485.7588815728406, rnn_size=128, controller_size=256, output_size=3)
+T:661.4552638530731
+Generation200
+Model(gen=97, eps=0.01, both_p=0.6499999999999998, controller_p=0.45, encoder_p=0.95, no_rew=18, acc=461.2204792436721, rnn_size=128, controller_size=256, output_size=3)
+T:578.2077362537384
+Generation201
+Model(gen=96, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.8999999999999999, no_rew=18, acc=466.0106974987938, rnn_size=128, controller_size=256, output_size=3)
+T:610.5952265262604
+Generation202
+Model(gen=100, eps=0.01, both_p=0.5999999999999998, controller_p=0.5, encoder_p=0.4499999999999996, no_rew=18, acc=444.2349504974731, rnn_size=128, controller_size=256, output_size=3)
+T:632.6434481143951
+Generation203
+Model(gen=98, eps=0.01, both_p=0.6499999999999998, controller_p=0.45, encoder_p=0.6999999999999997, no_rew=18, acc=473.6381017477132, rnn_size=128, controller_size=256, output_size=3)
+T:947.7189090251923
+Generation204
+Model(gen=99, eps=0.01, both_p=0.6499999999999998, controller_p=0.5, encoder_p=0.4999999999999996, no_rew=18, acc=449.9789041056444, rnn_size=128, controller_size=256, output_size=3)
+T:746.9551410675049
+Generation205
+Model(gen=99, eps=0.01, both_p=0.6499999999999998, controller_p=0.45, encoder_p=0.5999999999999996, no_rew=18, acc=520.7181377652921, rnn_size=128, controller_size=256, output_size=3)
+T:1443.1965236663818
+Generation206

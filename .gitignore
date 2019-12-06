@@ -1,0 +1,7 @@
+__pycache__/
+tiny_net/
+small_net/
+*ckpt/
+*.pkl
+todo
+

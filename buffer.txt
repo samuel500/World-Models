@@ -1,0 +1,136 @@
+Generation0
+Generation0
+Generation0
+candidate[0] fitness:19.997080291970768
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, no_rew=15, acc=27.34200513764721, rnn_size=8, controller_size=256, output_size=3)
+Generation0
+candidate[0] fitness:23.374100719424423
+Model(gen=0, eps=0.01, both_p=0.9, controller_p=0.5, no_rew=15, acc=19.472845635342793, rnn_size=8, controller_size=256, output_size=3)
+T:135.84914565086365
+Generation1
+Model(gen=1, eps=0.01, both_p=0.9, controller_p=0.4, no_rew=15, acc=25.839090476660385, rnn_size=8, controller_size=256, output_size=3)
+T:155.4944338798523
+Generation2
+Model(gen=1, eps=0.01, both_p=0.8, controller_p=0.45, no_rew=15, acc=22.458307813424426, rnn_size=8, controller_size=256, output_size=3)
+T:151.90473079681396
+Generation3
+Model(gen=2, eps=0.01, both_p=0.8500000000000001, controller_p=0.45, no_rew=15, acc=24.455427821582266, rnn_size=8, controller_size=256, output_size=3)
+T:156.9203019142151
+Generation4
+Model(gen=2, eps=0.011, both_p=0.9, controller_p=0.45, no_rew=15, acc=30.04706410826797, rnn_size=8, controller_size=256, output_size=3)
+T:179.77537202835083
+Generation5
+Model(gen=4, eps=0.011, both_p=0.8, controller_p=0.4, no_rew=15, acc=35.084231788239904, rnn_size=8, controller_size=256, output_size=3)
+T:193.68389296531677
+Generation6
+Model(gen=4, eps=0.009000000000000001, both_p=0.95, controller_p=0.4, no_rew=15, acc=30.77179469652929, rnn_size=8, controller_size=256, output_size=3)
+T:363.08588099479675
+Generation7
+Model(gen=5, eps=0.009000000000000001, both_p=1.0, controller_p=0.4, no_rew=15, acc=43.8055237096074, rnn_size=8, controller_size=256, output_size=3)
+T:207.32082080841064
+Generation8
+Model(gen=6, eps=0.010000000000000002, both_p=1.0, controller_p=0.35000000000000003, no_rew=15, acc=41.347064845211555, rnn_size=8, controller_size=256, output_size=3)
+T:200.22449779510498
+Generation9
+Model(gen=7, eps=0.009000000000000001, both_p=0.85, controller_p=0.35000000000000003, no_rew=15, acc=46.60065216922852, rnn_size=8, controller_size=256, output_size=3)
+T:215.9089789390564
+Generation10
+Model(gen=8, eps=0.009000000000000001, both_p=0.85, controller_p=0.35000000000000003, no_rew=15, acc=42.912651174512206, rnn_size=8, controller_size=256, output_size=3)
+T:220.01743483543396
+Generation11
+Model(gen=9, eps=0.009000000000000001, both_p=0.7999999999999999, controller_p=0.35000000000000003, no_rew=15, acc=49.38925551777232, rnn_size=8, controller_size=256, output_size=3)
+T:229.67277836799622
+Generation12
+Model(gen=10, eps=0.009999999999999998, both_p=1.0, controller_p=0.5, no_rew=15, acc=51.54549450884314, rnn_size=8, controller_size=256, output_size=3)
+T:255.02288675308228
+Generation13
+Model(gen=11, eps=0.009000000000000001, both_p=0.7499999999999999, controller_p=0.35000000000000003, no_rew=15, acc=58.33752396709912, rnn_size=8, controller_size=256, output_size=3)
+T:244.079749584198
+Generation14
+Model(gen=12, eps=0.009000000000000001, both_p=0.8, controller_p=0.30000000000000004, no_rew=15, acc=56.115590846549, rnn_size=8, controller_size=256, output_size=3)
+T:274.44068813323975
+Generation15
+Model(gen=11, eps=0.011, both_p=0.95, controller_p=0.55, no_rew=15, acc=63.62168581397276, rnn_size=8, controller_size=256, output_size=3)
+T:321.01406812667847
+Generation16
+Model(gen=14, eps=0.008, both_p=0.6499999999999999, controller_p=0.35000000000000003, no_rew=15, acc=64.39773924204017, rnn_size=8, controller_size=256, output_size=3)
+T:505.2325632572174
+Generation17
+Model(gen=13, eps=0.008, both_p=0.75, controller_p=0.35000000000000003, no_rew=15, acc=62.7087081464659, rnn_size=8, controller_size=256, output_size=3)
+T:756.7149429321289
+Generation18
+Model(gen=14, eps=0.011, both_p=0.95, controller_p=0.4000000000000001, no_rew=15, acc=69.55265069364822, rnn_size=8, controller_size=256, output_size=3)
+T:421.26732540130615
+Generation19
+Model(gen=15, eps=0.011, both_p=0.95, controller_p=0.4000000000000001, no_rew=15, acc=77.23564394858712, rnn_size=8, controller_size=256, output_size=3)
+T:302.21649527549744
+Generation20
+Model(gen=16, eps=0.011, both_p=1.0, controller_p=0.4000000000000001, no_rew=15, acc=82.36529072930884, rnn_size=8, controller_size=256, output_size=3)
+T:299.1329400539398
+Generation21
+Model(gen=17, eps=0.009999999999999998, both_p=1.0, controller_p=0.4000000000000001, no_rew=15, acc=87.78550565089556, rnn_size=8, controller_size=256, output_size=3)
+T:324.7292356491089
+Generation22
+Model(gen=18, eps=0.011000000000000003, both_p=0.7499999999999999, controller_p=0.5, no_rew=15, acc=96.20795411213417, rnn_size=8, controller_size=256, output_size=3)
+T:324.0736310482025
+Generation23
+Model(gen=18, eps=0.009999999999999998, both_p=1.0, controller_p=0.3500000000000001, no_rew=15, acc=86.02048341991433, rnn_size=8, controller_size=256, output_size=3)
+T:303.61245107650757
+Generation24
+Model(gen=20, eps=0.009000000000000001, both_p=0.6499999999999999, controller_p=0.35, no_rew=15, acc=110.38427096754151, rnn_size=8, controller_size=256, output_size=3)
+T:562.003753900528
+Generation25
+Model(gen=20, eps=0.009000000000000001, both_p=0.7499999999999999, controller_p=0.35, no_rew=15, acc=85.14919663955087, rnn_size=8, controller_size=256, output_size=3)
+T:412.9832179546356
+Generation26
+Model(gen=22, eps=0.012, both_p=1.0, controller_p=0.3500000000000001, no_rew=15, acc=189.1323331598679, rnn_size=8, controller_size=256, output_size=3)
+T:867.0197279453278
+Generation27
+Model(gen=22, eps=0.012, both_p=1.0, controller_p=0.3500000000000001, no_rew=15, acc=124.79901476005277, rnn_size=8, controller_size=256, output_size=3)
+T:567.9801044464111
+Generation28
+candidate[0] fitness:260.2014492753626
+Model(gen=22, eps=0.012, both_p=1.0, controller_p=0.3500000000000001, no_rew=15, acc=131.16061632265135, rnn_size=8, controller_size=256, output_size=3)
+T:450.00640177726746
+Generation29
+Model(gen=23, eps=0.012, both_p=1.0, controller_p=0.3500000000000001, no_rew=15, acc=141.7080249909351, rnn_size=8, controller_size=256, output_size=3)
+T:465.99321389198303
+Generation30
+Model(gen=24, eps=0.011, both_p=1.0, controller_p=0.3500000000000001, no_rew=15, acc=142.5518762894534, rnn_size=8, controller_size=256, output_size=3)
+T:661.001838684082
+Generation31
+Model(gen=26, eps=0.012, both_p=0.85, controller_p=0.3500000000000001, no_rew=15, acc=174.4120073821706, rnn_size=8, controller_size=256, output_size=3)
+T:560.995528459549
+Generation32
+Model(gen=25, eps=0.011, both_p=1.0, controller_p=0.4000000000000001, no_rew=15, acc=171.46888591100858, rnn_size=8, controller_size=256, output_size=3)
+T:837.9851450920105
+Generation33
+Model(gen=27, eps=0.012, both_p=0.85, controller_p=0.3500000000000001, no_rew=15, acc=183.39458968321435, rnn_size=8, controller_size=256, output_size=3)
+T:841.9946122169495
+Generation34
+candidate[0] fitness:359.39857651245313
+Model(gen=26, eps=0.012, both_p=1.0, controller_p=0.3000000000000001, no_rew=15, acc=220.80569523798815, rnn_size=8, controller_size=256, output_size=3)
+T:527.2725079059601
+Generation35
+Model(gen=27, eps=0.012, both_p=1.0, controller_p=0.2000000000000001, no_rew=15, acc=190.3463277205474, rnn_size=8, controller_size=256, output_size=3)
+T:637.7792012691498
+Generation36
+Model(gen=30, eps=0.012, both_p=0.95, controller_p=0.4000000000000001, no_rew=15, acc=176.98159107567326, rnn_size=8, controller_size=256, output_size=3)
+T:671.5094377994537
+Generation37
+Model(gen=29, eps=0.013000000000000001, both_p=0.85, controller_p=0.3000000000000001, no_rew=15, acc=229.65147867804998, rnn_size=8, controller_size=256, output_size=3)
+T:654.090845823288
+Generation38
+Model(gen=28, eps=0.011, both_p=1.0, controller_p=0.15000000000000013, no_rew=15, acc=238.34024558378087, rnn_size=8, controller_size=256, output_size=3)
+T:724.0513484477997
+Generation39
+Model(gen=29, eps=0.011, both_p=0.9, controller_p=0.15000000000000013, no_rew=15, acc=235.61142226002985, rnn_size=8, controller_size=256, output_size=3)
+T:644.9705164432526
+Generation40
+Model(gen=28, eps=0.011, both_p=1.0, controller_p=0.15000000000000013, no_rew=15, acc=229.43537860868548, rnn_size=8, controller_size=256, output_size=3)
+T:841.1656546592712
+Generation41
+Model(gen=30, eps=0.011, both_p=0.9, controller_p=0.05000000000000013, no_rew=15, acc=234.08671374504388, rnn_size=8, controller_size=256, output_size=3)
+T:817.6112103462219
+Generation42
+Model(gen=33, eps=0.009999999999999998, both_p=0.8, controller_p=0.2500000000000001, no_rew=15, acc=192.6160596998878, rnn_size=8, controller_size=256, output_size=3)
